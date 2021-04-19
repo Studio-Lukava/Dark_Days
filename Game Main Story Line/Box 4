@@ -1,0 +1,5 @@
+Can we get a name? Anyname will do just to play the game!!! Just type your name in the box below and smash the start button.
+<hr>
+(input-box:2bind $name,"X")
+<hr>
+[[Next->Warning]]
